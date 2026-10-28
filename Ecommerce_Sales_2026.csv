@@ -1,0 +1,181 @@
+﻿Order_ID,Order_Date,Region,Category,Product,Quantity,Unit_Price,Discount_Percent,Cost_Price,Customer_Type,Return_Status,Delivery_Days
+ORD00001,2026-06-07,North,Electronics,Headphones,4,2499,40,1699.46,New,Not Returned,4
+ORD00002,2026-09-23,South,Electronics,Laptop,4,7999,15,5044.88,Returning,Not Returned,4
+ORD00003,2026-08-16,East,Electronics,Laptop,4,7999,10,4007.14,New,Not Returned,12
+ORD00004,2026-06-14,West,Beauty,Face Wash,4,799,30,434.31,Returning,Not Returned,3
+ORD00005,2026-07-16,North,Fashion,T-Shirt,3,799,5,527.13,Returning,Returned,9
+ORD00006,2026-05-18,Central,Home,Air Purifier,1,1999,25,1555.62,New,Returned,1
+ORD00007,2026-08-23,West,Electronics,Smartphone,4,49999,20,38556.02,VIP,Returned,4
+ORD00008,2026-07-12,West,Home,Air Purifier,3,1999,5,1546.08,Returning,Not Returned,1
+ORD00009,2026-07-07,South,Electronics,Laptop,5,7999,25,6542.56,VIP,Not Returned,5
+ORD00010,2026-08-21,West,Beauty,Moisturizer,5,2499,15,1440.75,New,Returned,4
+ORD00011,2026-05-09,South,Home,Mixer,4,1999,5,1030.77,Returning,Not Returned,4
+ORD00012,2026-09-27,South,Electronics,Laptop,1,2499,40,1441.74,Returning,Returned,5
+ORD00013,2026-06-27,Central,Fashion,Sneakers,2,799,40,545.87,Returning,Not Returned,11
+ORD00014,2026-07-24,South,Fashion,Jacket,4,2499,40,1854.68,New,Not Returned,11
+ORD00015,2026-05-05,Central,Home,Mixer,5,14999,0,7312.2,Returning,Returned,7
+ORD00016,2026-08-10,East,Home,Vacuum,4,1999,20,1652.96,Returning,Not Returned,2
+ORD00017,2026-07-09,West,Home,Mixer,1,4999,30,2634.84,Returning,Not Returned,2
+ORD00018,2026-05-19,East,Electronics,Laptop,5,19999,25,15548.37,Returning,Not Returned,10
+ORD00019,2026-06-10,Central,Electronics,Smartphone,4,49999,0,34068.64,VIP,Not Returned,6
+ORD00020,2026-07-09,East,Home,Vacuum,3,8999,10,4946.74,VIP,Not Returned,9
+ORD00021,2026-08-28,South,Home,Mixer,3,14999,10,8635.35,Returning,Not Returned,9
+ORD00022,2026-06-16,West,Electronics,Smartphone,2,7999,0,5504.96,VIP,Not Returned,10
+ORD00023,2026-09-29,Central,Home,Air Purifier,3,1999,30,1041.84,VIP,Not Returned,8
+ORD00024,2026-09-19,West,Fashion,T-Shirt,3,2499,5,1936.18,VIP,Not Returned,9
+ORD00025,2026-09-16,West,Fashion,T-Shirt,3,799,20,471.03,New,Returned,12
+ORD00026,2026-05-12,West,Fashion,T-Shirt,1,3999,5,2402.06,Returning,Returned,10
+ORD00027,2026-06-16,South,Beauty,Face Wash,1,399,40,253.94,VIP,Not Returned,12
+ORD00028,2026-07-31,South,Fashion,Sneakers,3,2499,10,1467.34,Returning,Not Returned,1
+ORD00029,2026-07-26,East,Fashion,Jacket,2,2499,25,1972.95,Returning,Not Returned,10
+ORD00030,2026-09-17,South,Fashion,Jacket,1,799,10,664.94,New,Returned,12
+ORD00031,2026-09-15,South,Home,Mixer,2,1999,40,1109.5,New,Not Returned,6
+ORD00032,2026-08-09,West,Electronics,Laptop,3,49999,30,32710.33,New,Not Returned,5
+ORD00033,2026-07-18,North,Beauty,Serum,3,2499,10,1295.82,VIP,Returned,4
+ORD00034,2026-08-15,South,Beauty,Face Wash,5,1199,30,941.47,VIP,Not Returned,6
+ORD00035,2026-06-27,Central,Home,Air Purifier,5,4999,0,4027.56,New,Not Returned,12
+ORD00036,2026-09-06,Central,Beauty,Moisturizer,4,2499,5,1248.44,New,Not Returned,8
+ORD00037,2026-08-01,East,Electronics,Headphones,3,49999,5,40336.99,Returning,Not Returned,9
+ORD00038,2026-08-26,South,Electronics,Smartphone,3,2499,5,1870.82,Returning,Returned,4
+ORD00039,2026-05-17,Central,Home,Air Purifier,5,1999,20,1236.6,Returning,Not Returned,6
+ORD00040,2026-04-17,Central,Fashion,Jeans,2,3999,40,2663.16,Returning,Not Returned,1
+ORD00041,2026-08-29,North,Home,Vacuum,3,4999,15,3831.98,Returning,Not Returned,9
+ORD00042,2026-07-26,North,Home,Mixer,3,8999,20,4801.89,New,Not Returned,2
+ORD00043,2026-05-18,North,Electronics,Tablet,1,2499,5,1790.57,VIP,Returned,5
+ORD00044,2026-09-14,Central,Home,Air Purifier,2,14999,0,7409.0,Returning,Not Returned,3
+ORD00045,2026-09-26,East,Beauty,Serum,1,799,5,626.75,New,Not Returned,8
+ORD00046,2026-08-27,Central,Home,Mixer,1,14999,15,8944.13,VIP,Not Returned,5
+ORD00047,2026-08-31,Central,Electronics,Headphones,4,2499,30,1840.44,VIP,Not Returned,6
+ORD00048,2026-07-10,West,Fashion,Jeans,1,2499,25,1388.77,VIP,Not Returned,9
+ORD00049,2026-07-08,East,Electronics,Headphones,2,2499,10,1284.21,New,Not Returned,4
+ORD00050,2026-07-12,West,Home,Air Purifier,1,4999,20,4110.89,New,Not Returned,3
+ORD00051,2026-07-09,North,Electronics,Smartphone,1,49999,0,35571.79,Returning,Returned,12
+ORD00052,2026-04-17,West,Electronics,Headphones,4,49999,10,37404.9,Returning,Not Returned,12
+ORD00053,2026-06-08,South,Fashion,Jacket,4,2499,5,1260.98,VIP,Not Returned,12
+ORD00054,2026-07-23,West,Home,Air Purifier,4,14999,40,12227.27,New,Returned,7
+ORD00055,2026-06-22,North,Beauty,Serum,3,399,10,286.51,New,Not Returned,12
+ORD00056,2026-09-10,Central,Beauty,Serum,1,2499,30,1588.03,New,Not Returned,11
+ORD00057,2026-04-02,South,Electronics,Laptop,3,19999,10,16535.83,VIP,Returned,5
+ORD00058,2026-06-04,South,Beauty,Perfume,4,2499,5,1279.52,New,Not Returned,8
+ORD00059,2026-04-05,South,Fashion,Jeans,1,1299,30,789.33,Returning,Not Returned,2
+ORD00060,2026-05-23,Central,Home,Vacuum,5,14999,15,8236.87,VIP,Not Returned,5
+ORD00061,2026-09-03,Central,Beauty,Face Wash,4,399,10,318.62,VIP,Not Returned,3
+ORD00062,2026-07-18,South,Home,Vacuum,3,4999,10,4000.97,New,Not Returned,9
+ORD00063,2026-09-01,East,Fashion,T-Shirt,1,799,10,587.35,Returning,Returned,11
+ORD00064,2026-09-20,South,Fashion,Sneakers,2,3999,20,2584.62,Returning,Not Returned,11
+ORD00065,2026-09-30,North,Fashion,Sneakers,5,799,15,677.83,Returning,Not Returned,5
+ORD00066,2026-04-18,Central,Fashion,Jacket,3,799,40,469.42,New,Not Returned,6
+ORD00067,2026-04-02,North,Home,Vacuum,5,14999,20,10663.73,VIP,Not Returned,6
+ORD00068,2026-09-05,South,Home,Vacuum,1,14999,0,7321.8,New,Not Returned,11
+ORD00069,2026-07-16,East,Beauty,Face Wash,4,799,10,489.43,VIP,Not Returned,8
+ORD00070,2026-06-22,South,Electronics,Headphones,4,19999,40,15221.17,New,Not Returned,10
+ORD00071,2026-09-06,West,Electronics,Smartphone,3,7999,15,5354.69,VIP,Not Returned,9
+ORD00072,2026-06-03,Central,Beauty,Perfume,4,799,15,583.52,VIP,Not Returned,6
+ORD00073,2026-09-14,North,Electronics,Smartphone,3,49999,20,26141.88,New,Not Returned,5
+ORD00074,2026-07-08,West,Beauty,Moisturizer,1,799,25,655.92,Returning,Not Returned,11
+ORD00075,2026-04-23,West,Electronics,Headphones,5,19999,0,12959.69,VIP,Not Returned,7
+ORD00076,2026-04-08,South,Electronics,Laptop,5,2499,40,1483.04,New,Returned,5
+ORD00077,2026-05-14,South,Fashion,Jeans,2,3999,25,3382.23,New,Not Returned,5
+ORD00078,2026-04-02,West,Beauty,Serum,4,2499,15,1759.56,Returning,Returned,5
+ORD00079,2026-04-18,West,Electronics,Tablet,3,2499,10,1637.5,VIP,Not Returned,10
+ORD00080,2026-07-14,South,Fashion,Jacket,1,3999,30,1994.33,Returning,Not Returned,12
+ORD00081,2026-06-06,West,Fashion,Jacket,5,3999,25,3379.26,VIP,Not Returned,6
+ORD00082,2026-06-19,North,Electronics,Tablet,1,19999,5,11893.12,New,Returned,9
+ORD00083,2026-07-05,Central,Electronics,Smartphone,5,49999,15,33558.19,New,Not Returned,2
+ORD00084,2026-04-22,Central,Electronics,Laptop,2,2499,15,1867.85,New,Not Returned,12
+ORD00085,2026-08-16,North,Electronics,Headphones,4,7999,25,6147.99,Returning,Not Returned,3
+ORD00086,2026-07-05,North,Beauty,Moisturizer,3,1199,30,753.48,New,Not Returned,3
+ORD00087,2026-05-26,South,Beauty,Face Wash,3,2499,0,1847.25,New,Not Returned,6
+ORD00088,2026-06-12,West,Beauty,Perfume,3,799,0,416.89,Returning,Not Returned,4
+ORD00089,2026-05-17,East,Beauty,Moisturizer,2,1199,30,971.07,New,Returned,8
+ORD00090,2026-09-28,West,Electronics,Tablet,3,19999,30,16221.93,VIP,Not Returned,9
+ORD00091,2026-05-20,South,Fashion,T-Shirt,1,1299,25,979.19,New,Not Returned,12
+ORD00092,2026-09-09,North,Fashion,T-Shirt,2,3999,25,2573.91,Returning,Not Returned,5
+ORD00093,2026-05-26,North,Beauty,Face Wash,1,1199,20,958.99,Returning,Not Returned,2
+ORD00094,2026-09-10,Central,Electronics,Laptop,2,7999,20,4005.48,Returning,Not Returned,10
+ORD00095,2026-06-19,South,Fashion,T-Shirt,4,1299,40,636.67,New,Not Returned,10
+ORD00096,2026-06-03,East,Electronics,Laptop,1,49999,10,36328.98,Returning,Returned,10
+ORD00097,2026-09-27,North,Fashion,Sneakers,4,1299,10,988.32,VIP,Not Returned,7
+ORD00098,2026-07-22,South,Electronics,Tablet,2,7999,30,6452.24,Returning,Not Returned,8
+ORD00099,2026-09-29,East,Electronics,Smartphone,3,7999,0,6302.43,VIP,Not Returned,3
+ORD00100,2026-09-07,East,Electronics,Laptop,4,7999,5,4931.1,Returning,Not Returned,6
+ORD00101,2026-05-24,North,Home,Air Purifier,5,4999,10,3608.22,New,Not Returned,12
+ORD00102,2026-06-11,Central,Beauty,Perfume,3,799,30,469.4,Returning,Not Returned,2
+ORD00103,2026-06-12,North,Fashion,Jeans,2,2499,30,1525.1,New,Not Returned,2
+ORD00104,2026-05-22,North,Electronics,Laptop,1,19999,25,11063.61,Returning,Returned,11
+ORD00105,2026-05-30,Central,Electronics,Laptop,5,7999,20,5166.0,Returning,Not Returned,12
+ORD00106,2026-05-02,West,Electronics,Laptop,3,2499,5,1639.22,Returning,Not Returned,2
+ORD00107,2026-09-27,South,Beauty,Moisturizer,3,399,30,267.81,New,Not Returned,6
+ORD00108,2026-04-13,South,Beauty,Face Wash,1,1199,40,635.44,VIP,Not Returned,10
+ORD00109,2026-09-20,West,Beauty,Serum,1,2499,0,1558.64,VIP,Returned,4
+ORD00110,2026-08-22,West,Fashion,T-Shirt,4,1299,5,679.07,VIP,Not Returned,12
+ORD00111,2026-04-27,South,Fashion,Sneakers,2,2499,30,1285.06,New,Not Returned,6
+ORD00112,2026-09-26,West,Fashion,Jeans,4,799,5,398.5,VIP,Not Returned,12
+ORD00113,2026-04-14,Central,Beauty,Serum,4,799,30,668.8,Returning,Not Returned,5
+ORD00114,2026-05-15,South,Beauty,Perfume,1,399,20,200.11,VIP,Not Returned,8
+ORD00115,2026-06-23,South,Electronics,Headphones,2,19999,5,13852.14,Returning,Not Returned,2
+ORD00116,2026-07-15,South,Beauty,Moisturizer,1,1199,40,684.27,VIP,Not Returned,9
+ORD00117,2026-08-28,East,Electronics,Laptop,4,49999,0,39828.86,Returning,Not Returned,7
+ORD00118,2026-05-20,South,Fashion,Jeans,2,3999,20,2423.16,New,Not Returned,3
+ORD00119,2026-04-03,West,Fashion,T-Shirt,2,799,5,480.59,VIP,Not Returned,3
+ORD00120,2026-09-18,Central,Home,Coffee Maker,2,4999,30,4229.17,New,Not Returned,12
+ORD00121,2026-06-22,West,Home,Air Purifier,2,1999,0,1504.98,Returning,Not Returned,4
+ORD00122,2026-07-16,Central,Beauty,Perfume,3,1199,5,697.09,VIP,Not Returned,11
+ORD00123,2026-09-01,East,Beauty,Moisturizer,5,399,0,317.14,VIP,Not Returned,1
+ORD00124,2026-07-01,Central,Fashion,Sneakers,1,1299,10,855.44,New,Not Returned,11
+ORD00125,2026-08-12,East,Home,Vacuum,4,8999,20,5291.08,New,Not Returned,11
+ORD00126,2026-04-15,South,Home,Coffee Maker,4,1999,10,1445.57,VIP,Not Returned,5
+ORD00127,2026-06-25,South,Beauty,Perfume,2,1199,10,641.38,Returning,Returned,12
+ORD00128,2026-08-24,East,Fashion,Jeans,4,2499,10,2084.99,VIP,Returned,11
+ORD00129,2026-07-21,Central,Fashion,Jacket,3,2499,10,1429.85,VIP,Not Returned,4
+ORD00130,2026-05-27,North,Fashion,Sneakers,3,2499,10,2044.25,New,Returned,1
+ORD00131,2026-09-15,South,Fashion,Jeans,2,3999,10,2617.25,New,Not Returned,5
+ORD00132,2026-08-31,South,Beauty,Perfume,3,799,25,530.34,VIP,Not Returned,6
+ORD00133,2026-07-29,South,Electronics,Smartphone,5,2499,40,1804.56,VIP,Not Returned,11
+ORD00134,2026-07-17,Central,Electronics,Smartphone,1,19999,25,16180.19,Returning,Not Returned,8
+ORD00135,2026-05-28,West,Beauty,Moisturizer,5,399,40,264.45,VIP,Not Returned,2
+ORD00136,2026-04-22,Central,Electronics,Tablet,5,49999,40,27760.17,Returning,Not Returned,2
+ORD00137,2026-05-21,West,Home,Vacuum,1,8999,30,6963.24,Returning,Not Returned,4
+ORD00138,2026-09-13,South,Electronics,Headphones,2,19999,15,16992.34,Returning,Not Returned,6
+ORD00139,2026-07-22,South,Beauty,Serum,3,1199,40,922.71,Returning,Not Returned,2
+ORD00140,2026-08-14,East,Home,Mixer,2,14999,10,10439.59,Returning,Not Returned,8
+ORD00141,2026-08-27,East,Beauty,Serum,3,799,0,451.7,Returning,Not Returned,8
+ORD00142,2026-07-02,Central,Fashion,T-Shirt,2,3999,25,2582.22,Returning,Not Returned,4
+ORD00143,2026-05-06,South,Beauty,Perfume,3,2499,10,1531.58,Returning,Not Returned,10
+ORD00144,2026-09-16,Central,Fashion,Sneakers,2,1299,0,807.97,New,Not Returned,2
+ORD00145,2026-04-27,North,Home,Mixer,5,14999,30,9665.88,Returning,Returned,12
+ORD00146,2026-07-30,Central,Fashion,T-Shirt,5,799,40,461.78,New,Not Returned,4
+ORD00147,2026-05-14,East,Beauty,Perfume,4,2499,15,1795.1,New,Not Returned,8
+ORD00148,2026-09-07,South,Home,Air Purifier,5,1999,10,1157.05,New,Not Returned,1
+ORD00149,2026-07-16,East,Beauty,Serum,1,2499,15,1870.61,New,Returned,11
+ORD00150,2026-04-21,South,Home,Coffee Maker,4,4999,30,3767.94,New,Not Returned,9
+ORD00151,2026-05-22,Central,Home,Air Purifier,3,8999,5,6614.34,Returning,Not Returned,4
+ORD00152,2026-06-02,North,Beauty,Serum,5,2499,30,1698.75,New,Not Returned,3
+ORD00153,2026-05-04,South,Beauty,Perfume,1,799,5,472.63,Returning,Not Returned,11
+ORD00154,2026-07-10,Central,Home,Coffee Maker,2,1999,25,1583.05,New,Not Returned,10
+ORD00155,2026-06-30,East,Fashion,T-Shirt,2,799,5,502.03,VIP,Not Returned,7
+ORD00156,2026-09-19,North,Beauty,Face Wash,3,799,5,396.82,New,Not Returned,4
+ORD00157,2026-09-09,South,Home,Mixer,4,14999,30,9693.93,New,Not Returned,6
+ORD00158,2026-05-04,South,Fashion,Sneakers,1,799,20,468.03,VIP,Not Returned,3
+ORD00159,2026-07-28,South,Electronics,Laptop,1,2499,5,1530.78,Returning,Not Returned,9
+ORD00160,2026-05-13,East,Electronics,Headphones,3,19999,10,13755.75,Returning,Not Returned,1
+ORD00161,2026-06-28,East,Electronics,Headphones,3,19999,30,14976.98,Returning,Not Returned,1
+ORD00162,2026-06-15,North,Electronics,Smartphone,2,19999,5,9994.66,Returning,Not Returned,5
+ORD00163,2026-06-04,South,Electronics,Smartphone,2,19999,40,10573.24,New,Returned,3
+ORD00164,2026-05-09,North,Home,Air Purifier,1,1999,5,1530.34,Returning,Not Returned,4
+ORD00165,2026-07-15,West,Beauty,Perfume,2,1199,10,653.9,New,Not Returned,1
+ORD00166,2026-04-02,North,Beauty,Face Wash,2,1199,5,891.59,Returning,Not Returned,5
+ORD00167,2026-07-04,Central,Beauty,Perfume,2,1199,15,825.51,New,Returned,1
+ORD00168,2026-08-27,Central,Fashion,T-Shirt,4,2499,10,2083.99,Returning,Not Returned,6
+ORD00169,2026-06-11,South,Electronics,Headphones,2,19999,25,13763.93,Returning,Not Returned,4
+ORD00170,2026-05-01,East,Beauty,Serum,2,399,15,291.52,VIP,Not Returned,1
+ORD00171,2026-08-13,East,Beauty,Face Wash,4,1199,15,646.59,Returning,Not Returned,9
+ORD00172,2026-07-15,North,Home,Mixer,4,4999,0,3892.16,Returning,Not Returned,8
+ORD00173,2026-06-02,West,Home,Coffee Maker,2,4999,10,2788.71,VIP,Not Returned,8
+ORD00174,2026-07-30,North,Fashion,T-Shirt,2,2499,20,1405.18,VIP,Not Returned,9
+ORD00175,2026-06-10,South,Home,Coffee Maker,4,4999,0,3042.41,Returning,Returned,3
+ORD00176,2026-04-16,North,Fashion,Sneakers,3,799,20,418.07,New,Not Returned,11
+ORD00177,2026-06-15,South,Beauty,Serum,5,799,5,626.5,Returning,Not Returned,1
+ORD00178,2026-08-12,Central,Home,Coffee Maker,2,1999,25,1283.11,Returning,Returned,8
+ORD00179,2026-05-30,North,Fashion,T-Shirt,1,3999,15,2356.0,Returning,Returned,3
+ORD00180,2026-08-08,West,Fashion,Sneakers,3,2499,10,1639.09,Returning,Not Returned,8

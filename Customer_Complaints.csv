@@ -1,0 +1,241 @@
+﻿Complaint_ID,Date,Customer_ID,Product_Category,Complaint_Type,Complaint_Description,Priority,Resolution_Days,Refund_Amount,Satisfaction_Score,Status
+CMP00001,2026-07-07,CUST0135,Beauty,Refund Delay,Partial refund received,Medium,,0,,In Progress
+CMP00002,2026-07-03,CUST0097,Beauty,Late Delivery,Courier tracking did not update,High,,4999,,In Progress
+CMP00003,2026-07-29,CUST0005,Fashion,Late Delivery,Shipment arrived after promised date,Critical,9,0,1,Resolved
+CMP00004,2026-09-23,CUST0108,Electronics,Product Quality,Quality below description,Medium,,2499,,Open
+CMP00005,2026-09-06,CUST0058,Electronics,Late Delivery,Courier tracking did not update,Critical,,0,,Escalated
+CMP00006,2026-09-19,CUST0069,Beauty,Damaged Product,Product not usable after delivery,High,6,999,2,Resolved
+CMP00007,2026-09-23,CUST0140,Fashion,Wrong Item,Incorrect product in package,Critical,,0,,Open
+CMP00008,2026-08-05,CUST0040,Home,Refund Delay,Partial refund received,Medium,6,999,4,Resolved
+CMP00009,2026-09-08,CUST0067,Electronics,Late Delivery,Shipment arrived after promised date,High,11,0,4,Resolved
+CMP00010,2026-07-18,CUST0092,Electronics,Product Quality,Item stopped working,High,,499,,Escalated
+CMP00011,2026-07-29,CUST0121,Home,Refund Delay,Partial refund received,Critical,,0,,Escalated
+CMP00012,2026-07-21,CUST0115,Electronics,Damaged Product,Product not usable after delivery,Medium,15,999,2,Resolved
+CMP00013,2026-09-06,CUST0057,Fashion,Refund Delay,Partial refund received,High,14,0,4,Resolved
+CMP00014,2026-07-14,CUST0044,Beauty,Support Response,Support reply did not resolve issue,Critical,6,999,4,Resolved
+CMP00015,2026-09-21,CUST0065,Home,Product Quality,Item stopped working,High,,0,,Escalated
+CMP00016,2026-07-29,CUST0031,Fashion,Support Response,Multiple transfers between agents,Medium,,0,,Open
+CMP00017,2026-09-02,CUST0030,Electronics,Refund Delay,Refund status remains pending,Low,8,0,2,Resolved
+CMP00018,2026-09-22,CUST0039,Fashion,Damaged Product,Product not usable after delivery,Low,9,0,1,Resolved
+CMP00019,2026-07-02,CUST0086,Beauty,Late Delivery,Order delayed during transit,Medium,8,0,2,Resolved
+CMP00020,2026-07-29,CUST0084,Beauty,Refund Delay,Partial refund received,Medium,17,999,5,Resolved
+CMP00021,2026-07-20,CUST0124,Fashion,Late Delivery,Shipment arrived after promised date,High,,9999,,In Progress
+CMP00022,2026-08-31,CUST0019,Home,Late Delivery,Courier tracking did not update,Low,,4999,,Escalated
+CMP00023,2026-08-13,CUST0050,Home,Damaged Product,Item damaged on arrival,Low,3,0,5,Resolved
+CMP00024,2026-07-11,CUST0134,Home,Late Delivery,Courier tracking did not update,High,,0,,Open
+CMP00025,2026-07-18,CUST0081,Fashion,Product Quality,Item stopped working,Low,,999,,Escalated
+CMP00026,2026-07-04,CUST0132,Home,Product Quality,Missing accessory,Medium,,9999,,Open
+CMP00027,2026-09-04,CUST0051,Fashion,Support Response,No response to earlier ticket,Medium,3,0,4,Resolved
+CMP00028,2026-07-20,CUST0039,Home,Late Delivery,Courier tracking did not update,Medium,,0,,In Progress
+CMP00029,2026-08-02,CUST0011,Beauty,Support Response,Support reply did not resolve issue,Low,9,4999,1,Resolved
+CMP00030,2026-07-16,CUST0091,Electronics,Refund Delay,Refund status remains pending,High,,0,,In Progress
+CMP00031,2026-09-18,CUST0038,Electronics,Wrong Item,Received a different model,High,,499,,In Progress
+CMP00032,2026-07-16,CUST0107,Electronics,Support Response,Support reply did not resolve issue,Low,1,0,3,Resolved
+CMP00033,2026-08-03,CUST0070,Home,Product Quality,Item stopped working,Medium,,0,,In Progress
+CMP00034,2026-08-27,CUST0076,Home,Late Delivery,Order delayed during transit,Critical,15,499,3,Resolved
+CMP00035,2026-07-28,CUST0046,Home,Product Quality,Quality below description,Critical,,999,,Escalated
+CMP00036,2026-09-02,CUST0128,Beauty,Late Delivery,Courier tracking did not update,High,9,9999,3,Resolved
+CMP00037,2026-09-06,CUST0146,Beauty,Support Response,Multiple transfers between agents,Medium,,9999,,In Progress
+CMP00038,2026-09-06,CUST0133,Home,Late Delivery,Order delayed during transit,Low,14,999,1,Resolved
+CMP00039,2026-08-16,CUST0050,Beauty,Refund Delay,Refund status remains pending,Medium,10,0,1,Resolved
+CMP00040,2026-07-26,CUST0138,Home,Late Delivery,Shipment arrived after promised date,High,8,499,1,Resolved
+CMP00041,2026-08-05,CUST0137,Home,Refund Delay,Refund status remains pending,Critical,,9999,,Escalated
+CMP00042,2026-09-18,CUST0106,Electronics,Late Delivery,Shipment arrived after promised date,Medium,,499,,Open
+CMP00043,2026-08-25,CUST0019,Beauty,Refund Delay,Refund status remains pending,Medium,2,499,4,Resolved
+CMP00044,2026-09-16,CUST0014,Fashion,Product Quality,Quality below description,Medium,11,0,2,Resolved
+CMP00045,2026-07-12,CUST0004,Beauty,Damaged Product,Item damaged on arrival,Low,17,4999,2,Resolved
+CMP00046,2026-07-12,CUST0128,Electronics,Late Delivery,Order delayed during transit,Medium,,0,,Open
+CMP00047,2026-07-07,CUST0139,Beauty,Damaged Product,Product not usable after delivery,High,1,9999,5,Resolved
+CMP00048,2026-07-12,CUST0010,Beauty,Product Quality,Quality below description,High,11,2499,4,Resolved
+CMP00049,2026-09-18,CUST0022,Fashion,Product Quality,Item stopped working,Medium,,0,,In Progress
+CMP00050,2026-07-21,CUST0103,Beauty,Late Delivery,Order delayed during transit,Medium,8,9999,2,Resolved
+CMP00051,2026-07-01,CUST0014,Beauty,Support Response,No response to earlier ticket,Critical,16,0,3,Resolved
+CMP00052,2026-08-27,CUST0091,Fashion,Late Delivery,Order delayed during transit,Critical,13,2499,1,Resolved
+CMP00053,2026-09-25,CUST0109,Fashion,Late Delivery,Order delayed during transit,Low,3,999,4,Resolved
+CMP00054,2026-09-12,CUST0014,Electronics,Refund Delay,Partial refund received,Low,14,499,3,Resolved
+CMP00055,2026-09-08,CUST0100,Beauty,Damaged Product,Product not usable after delivery,Low,6,9999,4,Resolved
+CMP00056,2026-07-04,CUST0060,Beauty,Damaged Product,Product arrived with broken packaging,Critical,4,999,2,Resolved
+CMP00057,2026-07-26,CUST0040,Electronics,Late Delivery,Order delayed during transit,Critical,,4999,,Open
+CMP00058,2026-07-08,CUST0002,Electronics,Support Response,Multiple transfers between agents,Low,5,4999,5,Resolved
+CMP00059,2026-08-04,CUST0053,Beauty,Late Delivery,Shipment arrived after promised date,Medium,1,0,2,Resolved
+CMP00060,2026-08-14,CUST0095,Electronics,Support Response,No response to earlier ticket,Medium,,499,,Open
+CMP00061,2026-08-01,CUST0045,Fashion,Refund Delay,Partial refund received,Medium,,0,,Open
+CMP00062,2026-08-30,CUST0072,Beauty,Damaged Product,Product not usable after delivery,Medium,,0,,Open
+CMP00063,2026-08-29,CUST0100,Beauty,Refund Delay,Refund status remains pending,High,6,0,4,Resolved
+CMP00064,2026-07-08,CUST0140,Electronics,Refund Delay,Refund status remains pending,Medium,16,0,4,Resolved
+CMP00065,2026-07-23,CUST0022,Fashion,Late Delivery,Order delayed during transit,High,16,999,2,Resolved
+CMP00066,2026-09-05,CUST0040,Electronics,Wrong Item,Wrong size delivered,Critical,,2499,,In Progress
+CMP00067,2026-08-27,CUST0008,Home,Support Response,Multiple transfers between agents,High,12,0,3,Resolved
+CMP00068,2026-08-20,CUST0107,Fashion,Product Quality,Item stopped working,High,,4999,,In Progress
+CMP00069,2026-07-07,CUST0047,Beauty,Product Quality,Item stopped working,Low,17,9999,4,Resolved
+CMP00070,2026-09-21,CUST0032,Fashion,Late Delivery,Order delayed during transit,Low,11,2499,3,Resolved
+CMP00071,2026-09-23,CUST0149,Fashion,Damaged Product,Product arrived with broken packaging,Low,16,0,1,Resolved
+CMP00072,2026-07-22,CUST0039,Home,Late Delivery,Courier tracking did not update,High,,0,,Escalated
+CMP00073,2026-07-11,CUST0040,Electronics,Refund Delay,Partial refund received,High,,0,,Escalated
+CMP00074,2026-08-12,CUST0009,Fashion,Refund Delay,Refund status remains pending,Medium,18,9999,4,Resolved
+CMP00075,2026-09-03,CUST0142,Electronics,Product Quality,Missing accessory,High,16,2499,2,Resolved
+CMP00076,2026-07-01,CUST0103,Electronics,Refund Delay,Partial refund received,Medium,,9999,,In Progress
+CMP00077,2026-07-14,CUST0093,Beauty,Support Response,Support reply did not resolve issue,Low,15,0,1,Resolved
+CMP00078,2026-08-21,CUST0114,Home,Damaged Product,Product arrived with broken packaging,Medium,17,2499,1,Resolved
+CMP00079,2026-08-05,CUST0050,Electronics,Late Delivery,Shipment arrived after promised date,Medium,,0,,In Progress
+CMP00080,2026-07-10,CUST0032,Electronics,Refund Delay,Refund status remains pending,Critical,10,2499,2,Resolved
+CMP00081,2026-08-30,CUST0136,Electronics,Late Delivery,Shipment arrived after promised date,High,12,9999,4,Resolved
+CMP00082,2026-07-26,CUST0145,Fashion,Late Delivery,Courier tracking did not update,High,,2499,,Open
+CMP00083,2026-09-10,CUST0122,Fashion,Late Delivery,Order delayed during transit,High,,0,,Open
+CMP00084,2026-09-17,CUST0113,Beauty,Late Delivery,Shipment arrived after promised date,Medium,4,0,3,Resolved
+CMP00085,2026-07-09,CUST0145,Fashion,Wrong Item,Wrong size delivered,High,12,499,5,Resolved
+CMP00086,2026-09-07,CUST0092,Fashion,Product Quality,Missing accessory,Low,,999,,In Progress
+CMP00087,2026-08-02,CUST0102,Beauty,Damaged Product,Product arrived with broken packaging,High,13,2499,1,Resolved
+CMP00088,2026-07-23,CUST0027,Home,Late Delivery,Shipment arrived after promised date,Low,3,999,4,Resolved
+CMP00089,2026-07-11,CUST0118,Fashion,Wrong Item,Received a different model,Medium,,4999,,Escalated
+CMP00090,2026-08-15,CUST0110,Electronics,Late Delivery,Shipment arrived after promised date,Low,10,0,2,Resolved
+CMP00091,2026-09-24,CUST0107,Electronics,Damaged Product,Product not usable after delivery,High,6,999,5,Resolved
+CMP00092,2026-07-22,CUST0019,Fashion,Product Quality,Item stopped working,Medium,,9999,,In Progress
+CMP00093,2026-09-04,CUST0115,Beauty,Late Delivery,Shipment arrived after promised date,High,8,0,2,Resolved
+CMP00094,2026-09-18,CUST0097,Home,Support Response,No response to earlier ticket,Medium,2,999,4,Resolved
+CMP00095,2026-09-02,CUST0150,Beauty,Product Quality,Missing accessory,Low,,4999,,Escalated
+CMP00096,2026-08-08,CUST0091,Home,Late Delivery,Order delayed during transit,Low,5,0,2,Resolved
+CMP00097,2026-08-23,CUST0009,Home,Late Delivery,Courier tracking did not update,Medium,9,0,2,Resolved
+CMP00098,2026-09-11,CUST0033,Electronics,Late Delivery,Order delayed during transit,Critical,7,4999,2,Resolved
+CMP00099,2026-08-12,CUST0008,Home,Refund Delay,Refund status remains pending,Low,7,2499,1,Resolved
+CMP00100,2026-08-24,CUST0148,Electronics,Late Delivery,Courier tracking did not update,High,1,4999,5,Resolved
+CMP00101,2026-09-23,CUST0141,Electronics,Late Delivery,Order delayed during transit,Medium,1,0,1,Resolved
+CMP00102,2026-09-06,CUST0135,Fashion,Support Response,Support reply did not resolve issue,High,15,499,4,Resolved
+CMP00103,2026-08-26,CUST0067,Home,Refund Delay,Refund not credited within expected period,Medium,9,0,4,Resolved
+CMP00104,2026-09-21,CUST0047,Electronics,Refund Delay,Partial refund received,High,16,9999,5,Resolved
+CMP00105,2026-08-29,CUST0005,Beauty,Late Delivery,Shipment arrived after promised date,Low,7,0,3,Resolved
+CMP00106,2026-09-13,CUST0003,Beauty,Refund Delay,Refund status remains pending,Low,8,9999,5,Resolved
+CMP00107,2026-09-23,CUST0125,Electronics,Late Delivery,Order delayed during transit,Medium,8,0,2,Resolved
+CMP00108,2026-07-16,CUST0084,Beauty,Late Delivery,Shipment arrived after promised date,Low,5,9999,1,Resolved
+CMP00109,2026-07-17,CUST0055,Fashion,Refund Delay,Refund status remains pending,High,2,4999,4,Resolved
+CMP00110,2026-08-09,CUST0057,Home,Late Delivery,Shipment arrived after promised date,High,16,4999,5,Resolved
+CMP00111,2026-07-24,CUST0027,Home,Late Delivery,Order delayed during transit,Medium,,0,,In Progress
+CMP00112,2026-08-19,CUST0061,Beauty,Refund Delay,Refund status remains pending,Medium,2,2499,1,Resolved
+CMP00113,2026-09-05,CUST0046,Home,Refund Delay,Partial refund received,High,,0,,In Progress
+CMP00114,2026-09-26,CUST0115,Electronics,Late Delivery,Courier tracking did not update,Medium,12,9999,2,Resolved
+CMP00115,2026-09-06,CUST0056,Home,Damaged Product,Product arrived with broken packaging,Medium,,999,,Escalated
+CMP00116,2026-08-02,CUST0048,Beauty,Late Delivery,Order delayed during transit,Medium,2,0,4,Resolved
+CMP00117,2026-09-05,CUST0093,Electronics,Refund Delay,Partial refund received,Medium,,0,,Open
+CMP00118,2026-09-26,CUST0048,Beauty,Refund Delay,Partial refund received,Medium,10,499,2,Resolved
+CMP00119,2026-09-15,CUST0076,Electronics,Refund Delay,Partial refund received,Medium,13,2499,5,Resolved
+CMP00120,2026-07-29,CUST0072,Home,Damaged Product,Product arrived with broken packaging,High,10,0,5,Resolved
+CMP00121,2026-09-30,CUST0149,Electronics,Damaged Product,Product not usable after delivery,Critical,11,2499,5,Resolved
+CMP00122,2026-07-21,CUST0114,Electronics,Support Response,Multiple transfers between agents,Medium,17,999,1,Resolved
+CMP00123,2026-08-12,CUST0144,Fashion,Refund Delay,Refund not credited within expected period,Medium,16,999,2,Resolved
+CMP00124,2026-08-18,CUST0107,Fashion,Refund Delay,Refund status remains pending,High,5,0,1,Resolved
+CMP00125,2026-07-07,CUST0143,Beauty,Product Quality,Missing accessory,High,12,0,4,Resolved
+CMP00126,2026-09-20,CUST0137,Fashion,Product Quality,Quality below description,Medium,,2499,,Escalated
+CMP00127,2026-09-04,CUST0148,Beauty,Product Quality,Quality below description,Medium,12,0,2,Resolved
+CMP00128,2026-09-15,CUST0025,Electronics,Support Response,Multiple transfers between agents,High,3,9999,5,Resolved
+CMP00129,2026-09-30,CUST0018,Fashion,Late Delivery,Shipment arrived after promised date,Medium,10,2499,2,Resolved
+CMP00130,2026-08-24,CUST0082,Electronics,Damaged Product,Product arrived with broken packaging,Low,11,2499,4,Resolved
+CMP00131,2026-08-14,CUST0059,Electronics,Product Quality,Missing accessory,High,8,9999,5,Resolved
+CMP00132,2026-07-21,CUST0011,Home,Support Response,Support reply did not resolve issue,High,17,999,3,Resolved
+CMP00133,2026-08-03,CUST0128,Electronics,Refund Delay,Refund not credited within expected period,Medium,8,2499,2,Resolved
+CMP00134,2026-08-07,CUST0073,Home,Support Response,Multiple transfers between agents,Medium,7,2499,1,Resolved
+CMP00135,2026-09-27,CUST0016,Electronics,Refund Delay,Partial refund received,Low,6,0,1,Resolved
+CMP00136,2026-07-02,CUST0146,Fashion,Late Delivery,Courier tracking did not update,Critical,,4999,,Open
+CMP00137,2026-08-28,CUST0096,Fashion,Late Delivery,Order delayed during transit,Medium,14,0,4,Resolved
+CMP00138,2026-08-04,CUST0098,Beauty,Damaged Product,Product not usable after delivery,High,17,2499,5,Resolved
+CMP00139,2026-08-04,CUST0017,Fashion,Damaged Product,Product arrived with broken packaging,Critical,15,4999,1,Resolved
+CMP00140,2026-09-19,CUST0086,Home,Refund Delay,Refund not credited within expected period,High,,4999,,Open
+CMP00141,2026-07-02,CUST0090,Home,Late Delivery,Courier tracking did not update,High,6,4999,3,Resolved
+CMP00142,2026-09-25,CUST0093,Electronics,Refund Delay,Partial refund received,Low,9,0,4,Resolved
+CMP00143,2026-08-13,CUST0149,Fashion,Refund Delay,Partial refund received,High,17,999,5,Resolved
+CMP00144,2026-07-21,CUST0107,Electronics,Refund Delay,Refund status remains pending,Low,5,499,2,Resolved
+CMP00145,2026-07-28,CUST0099,Fashion,Late Delivery,Courier tracking did not update,Low,18,499,4,Resolved
+CMP00146,2026-07-21,CUST0144,Electronics,Refund Delay,Refund status remains pending,Medium,12,0,1,Resolved
+CMP00147,2026-07-13,CUST0017,Beauty,Late Delivery,Courier tracking did not update,Medium,3,2499,2,Resolved
+CMP00148,2026-07-04,CUST0084,Home,Wrong Item,Wrong size delivered,Medium,17,0,1,Resolved
+CMP00149,2026-07-30,CUST0136,Electronics,Product Quality,Quality below description,High,,9999,,In Progress
+CMP00150,2026-08-26,CUST0115,Electronics,Late Delivery,Shipment arrived after promised date,Medium,6,0,5,Resolved
+CMP00151,2026-08-24,CUST0021,Electronics,Wrong Item,Incorrect product in package,Medium,3,0,1,Resolved
+CMP00152,2026-09-04,CUST0014,Fashion,Support Response,Multiple transfers between agents,High,3,0,3,Resolved
+CMP00153,2026-09-19,CUST0071,Electronics,Refund Delay,Refund status remains pending,Low,,499,,Escalated
+CMP00154,2026-08-03,CUST0094,Home,Wrong Item,Received a different model,High,,999,,Escalated
+CMP00155,2026-09-22,CUST0039,Fashion,Late Delivery,Order delayed during transit,Medium,6,2499,2,Resolved
+CMP00156,2026-07-20,CUST0077,Beauty,Product Quality,Quality below description,Medium,4,999,1,Resolved
+CMP00157,2026-07-26,CUST0053,Fashion,Late Delivery,Shipment arrived after promised date,Medium,,0,,In Progress
+CMP00158,2026-08-25,CUST0123,Home,Late Delivery,Order delayed during transit,Low,12,9999,5,Resolved
+CMP00159,2026-07-14,CUST0029,Beauty,Damaged Product,Product not usable after delivery,High,10,2499,2,Resolved
+CMP00160,2026-09-11,CUST0123,Beauty,Late Delivery,Shipment arrived after promised date,Medium,4,2499,2,Resolved
+CMP00161,2026-09-12,CUST0082,Electronics,Refund Delay,Partial refund received,High,15,499,1,Resolved
+CMP00162,2026-08-24,CUST0116,Fashion,Support Response,Support reply did not resolve issue,High,13,4999,5,Resolved
+CMP00163,2026-07-05,CUST0106,Beauty,Damaged Product,Product arrived with broken packaging,Medium,15,9999,4,Resolved
+CMP00164,2026-09-08,CUST0123,Fashion,Late Delivery,Order delayed during transit,Medium,6,999,4,Resolved
+CMP00165,2026-08-19,CUST0139,Electronics,Damaged Product,Product arrived with broken packaging,High,12,999,4,Resolved
+CMP00166,2026-08-23,CUST0078,Electronics,Wrong Item,Received a different model,Medium,3,0,2,Resolved
+CMP00167,2026-08-21,CUST0084,Electronics,Product Quality,Quality below description,Low,6,0,5,Resolved
+CMP00168,2026-07-17,CUST0031,Home,Support Response,No response to earlier ticket,Low,8,4999,5,Resolved
+CMP00169,2026-07-06,CUST0021,Home,Support Response,Support reply did not resolve issue,High,,2499,,Open
+CMP00170,2026-09-09,CUST0059,Electronics,Refund Delay,Partial refund received,Medium,15,2499,4,Resolved
+CMP00171,2026-08-20,CUST0114,Fashion,Wrong Item,Incorrect product in package,Medium,,4999,,Open
+CMP00172,2026-07-20,CUST0055,Electronics,Wrong Item,Received a different model,Low,1,499,2,Resolved
+CMP00173,2026-07-23,CUST0034,Electronics,Late Delivery,Order delayed during transit,High,1,0,2,Resolved
+CMP00174,2026-08-10,CUST0121,Fashion,Damaged Product,Product arrived with broken packaging,Medium,10,0,5,Resolved
+CMP00175,2026-07-31,CUST0113,Electronics,Refund Delay,Partial refund received,High,17,0,3,Resolved
+CMP00176,2026-07-29,CUST0005,Home,Refund Delay,Partial refund received,Critical,,0,,Open
+CMP00177,2026-09-25,CUST0078,Home,Refund Delay,Refund not credited within expected period,High,7,4999,5,Resolved
+CMP00178,2026-08-09,CUST0057,Home,Damaged Product,Product arrived with broken packaging,High,3,9999,5,Resolved
+CMP00179,2026-07-12,CUST0134,Electronics,Refund Delay,Partial refund received,High,11,0,4,Resolved
+CMP00180,2026-09-26,CUST0073,Fashion,Support Response,Multiple transfers between agents,Medium,18,4999,5,Resolved
+CMP00181,2026-08-10,CUST0035,Fashion,Product Quality,Missing accessory,High,18,2499,2,Resolved
+CMP00182,2026-08-23,CUST0058,Fashion,Wrong Item,Incorrect product in package,High,1,9999,4,Resolved
+CMP00183,2026-09-11,CUST0129,Beauty,Wrong Item,Received a different model,High,10,4999,1,Resolved
+CMP00184,2026-08-29,CUST0142,Beauty,Support Response,No response to earlier ticket,Medium,2,499,3,Resolved
+CMP00185,2026-08-06,CUST0147,Beauty,Support Response,Support reply did not resolve issue,Critical,12,0,4,Resolved
+CMP00186,2026-08-03,CUST0036,Home,Late Delivery,Order delayed during transit,Medium,5,999,4,Resolved
+CMP00187,2026-09-21,CUST0099,Fashion,Late Delivery,Order delayed during transit,Low,15,2499,5,Resolved
+CMP00188,2026-09-07,CUST0097,Beauty,Refund Delay,Refund not credited within expected period,Medium,8,0,2,Resolved
+CMP00189,2026-09-20,CUST0054,Fashion,Damaged Product,Item damaged on arrival,High,5,0,5,Resolved
+CMP00190,2026-09-06,CUST0106,Electronics,Damaged Product,Item damaged on arrival,Critical,12,4999,3,Resolved
+CMP00191,2026-07-07,CUST0006,Electronics,Damaged Product,Product not usable after delivery,Medium,,999,,In Progress
+CMP00192,2026-09-13,CUST0088,Fashion,Wrong Item,Received a different model,Medium,14,0,4,Resolved
+CMP00193,2026-07-24,CUST0087,Home,Refund Delay,Partial refund received,Medium,7,9999,4,Resolved
+CMP00194,2026-07-18,CUST0120,Electronics,Refund Delay,Refund not credited within expected period,Medium,15,999,5,Resolved
+CMP00195,2026-08-04,CUST0002,Electronics,Late Delivery,Courier tracking did not update,Low,15,2499,1,Resolved
+CMP00196,2026-07-24,CUST0141,Home,Wrong Item,Received a different model,Low,14,999,5,Resolved
+CMP00197,2026-09-17,CUST0103,Home,Support Response,Multiple transfers between agents,Low,9,4999,2,Resolved
+CMP00198,2026-07-01,CUST0003,Beauty,Damaged Product,Product not usable after delivery,Medium,,499,,In Progress
+CMP00199,2026-08-24,CUST0009,Fashion,Late Delivery,Shipment arrived after promised date,Medium,11,2499,3,Resolved
+CMP00200,2026-07-03,CUST0099,Electronics,Late Delivery,Order delayed during transit,High,13,0,2,Resolved
+CMP00201,2026-09-03,CUST0052,Electronics,Late Delivery,Order delayed during transit,High,4,4999,5,Resolved
+CMP00202,2026-07-01,CUST0148,Beauty,Support Response,Multiple transfers between agents,High,,0,,Open
+CMP00203,2026-09-11,CUST0115,Home,Refund Delay,Partial refund received,Medium,4,2499,1,Resolved
+CMP00204,2026-07-29,CUST0060,Beauty,Refund Delay,Refund not credited within expected period,High,,4999,,In Progress
+CMP00205,2026-08-04,CUST0022,Beauty,Late Delivery,Order delayed during transit,High,12,2499,1,Resolved
+CMP00206,2026-07-19,CUST0115,Home,Refund Delay,Refund status remains pending,Low,,999,,In Progress
+CMP00207,2026-07-09,CUST0086,Electronics,Late Delivery,Order delayed during transit,Medium,8,2499,1,Resolved
+CMP00208,2026-07-01,CUST0103,Beauty,Late Delivery,Shipment arrived after promised date,Low,,9999,,Escalated
+CMP00209,2026-08-12,CUST0090,Beauty,Late Delivery,Order delayed during transit,High,,999,,In Progress
+CMP00210,2026-07-14,CUST0021,Fashion,Late Delivery,Courier tracking did not update,High,,0,,Open
+CMP00211,2026-09-21,CUST0084,Beauty,Refund Delay,Refund not credited within expected period,High,,2499,,In Progress
+CMP00212,2026-09-06,CUST0086,Home,Damaged Product,Item damaged on arrival,Low,,499,,In Progress
+CMP00213,2026-08-24,CUST0044,Fashion,Late Delivery,Order delayed during transit,High,17,0,1,Resolved
+CMP00214,2026-08-06,CUST0093,Home,Late Delivery,Shipment arrived after promised date,High,15,0,4,Resolved
+CMP00215,2026-08-02,CUST0082,Beauty,Wrong Item,Received a different model,High,3,9999,3,Resolved
+CMP00216,2026-07-04,CUST0092,Fashion,Late Delivery,Shipment arrived after promised date,High,7,4999,3,Resolved
+CMP00217,2026-07-29,CUST0065,Electronics,Refund Delay,Refund status remains pending,Critical,12,9999,4,Resolved
+CMP00218,2026-08-24,CUST0031,Fashion,Product Quality,Missing accessory,Medium,,499,,Open
+CMP00219,2026-07-25,CUST0147,Beauty,Product Quality,Item stopped working,High,6,0,4,Resolved
+CMP00220,2026-07-27,CUST0100,Home,Product Quality,Item stopped working,Medium,3,2499,2,Resolved
+CMP00221,2026-07-19,CUST0144,Fashion,Product Quality,Item stopped working,High,17,499,2,Resolved
+CMP00222,2026-09-27,CUST0026,Beauty,Refund Delay,Refund not credited within expected period,Medium,6,0,2,Resolved
+CMP00223,2026-08-06,CUST0092,Beauty,Support Response,Support reply did not resolve issue,Critical,,999,,In Progress
+CMP00224,2026-07-13,CUST0044,Fashion,Damaged Product,Item damaged on arrival,Low,10,0,2,Resolved
+CMP00225,2026-08-20,CUST0094,Home,Product Quality,Missing accessory,High,4,999,1,Resolved
+CMP00226,2026-08-09,CUST0016,Home,Product Quality,Item stopped working,High,11,0,1,Resolved
+CMP00227,2026-09-22,CUST0006,Electronics,Damaged Product,Item damaged on arrival,Medium,13,0,2,Resolved
+CMP00228,2026-08-24,CUST0031,Electronics,Late Delivery,Order delayed during transit,Medium,,999,,Open
+CMP00229,2026-09-12,CUST0057,Fashion,Support Response,Multiple transfers between agents,Low,10,0,2,Resolved
+CMP00230,2026-09-11,CUST0071,Home,Refund Delay,Refund not credited within expected period,High,12,0,1,Resolved
+CMP00231,2026-09-22,CUST0069,Fashion,Late Delivery,Order delayed during transit,High,9,0,2,Resolved
+CMP00232,2026-08-17,CUST0109,Home,Support Response,Support reply did not resolve issue,Medium,6,999,2,Resolved
+CMP00233,2026-07-17,CUST0139,Electronics,Wrong Item,Incorrect product in package,Medium,16,499,5,Resolved
+CMP00234,2026-08-11,CUST0084,Beauty,Refund Delay,Partial refund received,Low,5,499,3,Resolved
+CMP00235,2026-09-23,CUST0089,Home,Late Delivery,Courier tracking did not update,Medium,9,999,2,Resolved
+CMP00236,2026-08-31,CUST0017,Fashion,Late Delivery,Shipment arrived after promised date,Low,7,999,4,Resolved
+CMP00237,2026-07-17,CUST0059,Beauty,Refund Delay,Refund status remains pending,Medium,18,2499,1,Resolved
+CMP00238,2026-09-26,CUST0039,Fashion,Product Quality,Missing accessory,Low,17,0,4,Resolved
+CMP00239,2026-08-01,CUST0123,Beauty,Late Delivery,Shipment arrived after promised date,Medium,15,0,3,Resolved
+CMP00240,2026-09-01,CUST0056,Electronics,Support Response,Multiple transfers between agents,Medium,14,9999,5,Resolved

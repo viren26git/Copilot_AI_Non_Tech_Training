@@ -1,0 +1,46 @@
+﻿Task_ID,Task_Name,Department,Owner,Start_Date,Due_Date,Completion_Percent,Status,Priority,Dependency,Estimated_Cost,Actual_Cost,Risk_Level
+TASK001,Requirements approval,Operations,Vikram,2026-11-28,2026-12-08,50,In Progress,Medium,,94000,96582.41,High
+TASK002,UX wireframes,Finance,Diya,2026-11-28,2026-12-04,100,Blocked,Critical,,29000,27804.92,Medium
+TASK003,Product catalog mapping,Operations,Diya,2026-11-27,2026-12-02,25,Not Started,Critical,TASK002,15000,9406.36,Medium
+TASK004,Inventory integration,Customer Support,Vikram,2026-11-24,2026-12-05,25,Not Started,Medium,TASK002,96000,79725.76,High
+TASK005,Payment gateway setup,Operations,Aarav,2026-10-16,2026-11-04,100,In Progress,High,TASK003,40000,22235.57,Medium
+TASK006,Tax configuration,Marketing,Kabir,2026-11-16,2026-11-25,50,In Progress,High,TASK001,93000,52617.93,High
+TASK007,Order service API,Marketing,Diya,2026-10-06,2026-10-11,50,Blocked,Critical,TASK002,22000,24671.13,High
+TASK008,Customer account flow,Finance,Rohan,2026-11-04,2026-11-09,75,In Progress,High,TASK003,37000,45311.97,Medium
+TASK009,Search configuration,Finance,Meera,2026-11-01,2026-11-05,40,Completed,Medium,TASK004,19000,27750.39,High
+TASK010,Security testing,IT,Kabir,2026-11-08,2026-11-24,75,In Progress,Low,TASK003,42000,27758.83,Medium
+TASK011,Performance testing,IT,Sana,2026-11-22,2026-12-07,10,In Progress,High,TASK003,116000,141423.78,Medium
+TASK012,User acceptance testing,Finance,Aarav,2026-11-08,2026-11-15,25,Completed,Medium,TASK006,49000,36247.34,Medium
+TASK013,Marketing launch assets,Marketing,Aarav,2026-10-06,2026-10-25,90,Not Started,Critical,TASK004,96000,69490.13,High
+TASK014,Customer support training,Marketing,Sana,2026-11-28,2026-12-02,60,Completed,Low,TASK013,70000,105221.4,Low
+TASK015,Analytics tracking,Finance,Vikram,2026-11-29,2026-12-03,0,Not Started,Low,TASK007,84000,92635.89,Low
+TASK016,Release rehearsal,Operations,Kabir,2026-10-29,2026-11-02,100,In Progress,High,TASK001,107000,112040.37,Low
+TASK017,Go-live checklist,Marketing,Vikram,2026-10-07,2026-10-22,100,Blocked,Low,TASK003,44000,29572.04,High
+TASK018,Supplier onboarding,Operations,Aarav,2026-10-19,2026-10-30,10,Completed,Low,TASK007,61000,81011.1,Medium
+TASK019,Returns workflow,Finance,Aarav,2026-10-17,2026-10-29,90,Completed,Medium,TASK012,18000,10302.74,High
+TASK020,Email notifications,Customer Support,Sana,2026-11-21,2026-11-25,60,Completed,High,TASK005,111000,102967.32,Low
+TASK021,Requirements approval - Phase 2,Finance,Diya,2026-11-29,2026-12-06,60,Not Started,Critical,TASK020,106000,153682.1,High
+TASK022,UX wireframes - Phase 2,Operations,Vikram,2026-10-19,2026-10-24,0,Not Started,Low,TASK011,94000,47053.6,High
+TASK023,Product catalog mapping - Phase 2,Finance,Kabir,2026-10-10,2026-10-17,25,Completed,Medium,TASK019,87000,44551.14,Medium
+TASK024,Inventory integration - Phase 2,Operations,Meera,2026-10-20,2026-11-06,60,Completed,Low,TASK008,62000,64696.38,High
+TASK025,Payment gateway setup - Phase 2,Operations,Rohan,2026-11-02,2026-11-07,75,Not Started,Low,TASK015,66000,49289.66,Low
+TASK026,Tax configuration - Phase 2,Operations,Kabir,2026-11-15,2026-11-20,40,Completed,High,TASK003,100000,77068.59,High
+TASK027,Order service API - Phase 2,Operations,Sana,2026-11-19,2026-12-06,60,Not Started,Low,TASK022,15000,18267.66,High
+TASK028,Customer account flow - Phase 2,Customer Support,Kabir,2026-11-09,2026-11-17,50,Not Started,Low,TASK011,20000,18782.42,Medium
+TASK029,Search configuration - Phase 2,Finance,Sana,2026-10-08,2026-10-16,60,In Progress,High,TASK024,42000,46474.26,Low
+TASK030,Security testing - Phase 2,IT,Sana,2026-11-21,2026-12-07,75,In Progress,Critical,TASK025,24000,20654.29,Medium
+TASK031,Performance testing - Phase 2,Finance,Sana,2026-11-22,2026-12-03,40,Not Started,Medium,TASK015,96000,147280.03,High
+TASK032,User acceptance testing - Phase 2,Marketing,Sana,2026-10-29,2026-11-16,90,Not Started,Low,TASK018,96000,91127.36,Low
+TASK033,Marketing launch assets - Phase 2,Marketing,Kabir,2026-11-15,2026-11-23,0,Completed,Critical,TASK031,117000,64840.63,High
+TASK034,Customer support training - Phase 2,Finance,Rohan,2026-11-10,2026-11-22,0,Completed,High,TASK030,79000,56227.58,High
+TASK035,Analytics tracking - Phase 2,Customer Support,Aarav,2026-11-15,2026-11-25,25,Blocked,Critical,TASK011,16000,21020.06,High
+TASK036,Release rehearsal - Phase 2,IT,Sana,2026-10-21,2026-11-07,50,Not Started,Medium,TASK022,39000,22680.98,Low
+TASK037,Go-live checklist - Phase 2,Operations,Sana,2026-10-22,2026-11-08,50,In Progress,Critical,TASK035,45000,62039.6,High
+TASK038,Supplier onboarding - Phase 2,IT,Aarav,2026-10-08,2026-10-29,75,Not Started,High,TASK006,44000,38445.26,Medium
+TASK039,Returns workflow - Phase 2,IT,Sana,2026-10-19,2026-10-29,25,Blocked,Critical,TASK034,56000,53838.66,Low
+TASK040,Email notifications - Phase 2,Marketing,Meera,2026-10-21,2026-11-07,90,Not Started,Low,TASK023,109000,115830.57,Low
+TASK041,Requirements approval - Phase 3,Marketing,Aarav,2026-10-29,2026-11-15,50,Completed,High,TASK028,58000,67049.65,Low
+TASK042,UX wireframes - Phase 3,Operations,Vikram,2026-11-14,2026-12-05,60,Blocked,Low,TASK018,107000,148577.65,Low
+TASK043,Product catalog mapping - Phase 3,Marketing,Meera,2026-11-08,2026-11-17,10,Completed,Low,TASK015,32000,48986.59,Low
+TASK044,Inventory integration - Phase 3,Finance,Kabir,2026-10-20,2026-11-08,100,Blocked,High,TASK021,29000,35088.54,Low
+TASK045,Payment gateway setup - Phase 3,Finance,Aarav,2026-10-06,2026-10-17,40,In Progress,High,TASK041,76000,55588.74,Medium

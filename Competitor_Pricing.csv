@@ -1,0 +1,101 @@
+﻿Competitor,Product_ID,Product_Category,Product_Name,Listed_Price,Discount_Percent,Customer_Rating,Review_Count,Delivery_Days,Warranty_Months
+Vijay Sales,PRD0001,Laptops,Gaming Laptop D,89999,0,3.3,5089,4,18
+Vijay Sales,PRD0002,Audio,ANC Headphones B,3999,25,4.6,7128,5,6
+Vijay Sales,PRD0003,Laptops,Gaming Laptop D,69999,10,4.3,6881,1,12
+Amazon,PRD0004,Laptops,Gaming Laptop D,54999,15,4.8,8934,7,24
+Croma,PRD0005,Smartphones,Premium Phone B,59999,12,4.7,11950,7,24
+Flipkart,PRD0006,Wearables,Sport Watch D,9999,20,4.4,2290,9,24
+Croma,PRD0007,Smartphones,Flagship Phone C,79999,15,4.4,11166,3,18
+Vijay Sales,PRD0008,Audio,Premium Earbuds D,7999,8,4.8,3444,5,18
+Croma,PRD0009,Wearables,Smartwatch A,24999,20,3.7,7358,8,18
+Amazon,PRD0010,Wearables,Premium Watch C,15999,25,3.8,10862,4,24
+Flipkart,PRD0011,Laptops,Business Laptop C,69999,20,4.3,10435,5,12
+Amazon,PRD0012,Laptops,Business Laptop C,89999,0,4.9,9092,7,6
+Croma,PRD0013,Audio,ANC Headphones B,19999,8,4.5,4053,6,18
+Reliance Digital,PRD0014,Smartphones,Flagship Phone C,79999,20,4.8,10863,9,24
+Reliance Digital,PRD0015,Smartphones,Flagship Phone C,59999,12,4.0,10101,1,12
+Reliance Digital,PRD0016,Smartphones,Flagship Phone C,59999,25,4.8,4479,3,12
+Vijay Sales,PRD0017,Audio,ANC Headphones B,12999,15,4.7,9006,7,6
+Reliance Digital,PRD0018,Laptops,Business Laptop C,119999,12,3.9,1736,1,12
+Croma,PRD0019,Laptops,Ultrabook A,119999,5,4.4,6626,8,12
+Amazon,PRD0020,Laptops,Gaming Laptop D,54999,10,3.3,2682,5,6
+Amazon,PRD0021,Smartphones,Flagship Phone C,44999,15,3.3,3190,2,12
+Vijay Sales,PRD0022,Wearables,Premium Watch C,9999,12,3.7,1294,4,6
+Amazon,PRD0023,Wearables,Smartwatch A,9999,0,4.7,7599,7,24
+Vijay Sales,PRD0024,Wearables,Smartwatch A,9999,8,4.9,3831,9,12
+Flipkart,PRD0025,Smartphones,Flagship Phone C,79999,5,4.9,10691,3,24
+Amazon,PRD0026,Laptops,Ultrabook A,89999,8,4.2,8823,9,12
+Flipkart,PRD0027,Wearables,Fitness Watch B,24999,12,4.5,1805,7,18
+Reliance Digital,PRD0028,Wearables,Smartwatch A,4999,5,3.4,3169,4,12
+Flipkart,PRD0029,Audio,Premium Earbuds D,7999,25,3.8,4844,5,18
+Vijay Sales,PRD0030,Laptops,Creator Laptop B,54999,25,3.3,1298,1,12
+Amazon,PRD0031,Wearables,Fitness Watch B,9999,15,4.5,11731,5,18
+Reliance Digital,PRD0032,Wearables,Premium Watch C,4999,25,4.4,1096,1,24
+Vijay Sales,PRD0033,Wearables,Fitness Watch B,4999,15,4.1,3029,5,6
+Amazon,PRD0034,Smartphones,Flagship Phone C,79999,0,3.3,4801,5,24
+Flipkart,PRD0035,Audio,ANC Headphones B,19999,5,4.5,1870,3,24
+Croma,PRD0036,Smartphones,Premium Phone B,44999,8,4.7,11643,3,6
+Amazon,PRD0037,Wearables,Fitness Watch B,9999,25,4.2,4378,9,12
+Croma,PRD0038,Laptops,Business Laptop C,89999,5,3.2,9776,9,6
+Croma,PRD0039,Smartphones,Flagship Phone C,59999,15,4.8,4556,8,6
+Amazon,PRD0040,Wearables,Premium Watch C,4999,25,3.9,6383,3,24
+Flipkart,PRD0041,Wearables,Sport Watch D,24999,0,3.5,7729,7,6
+Flipkart,PRD0042,Wearables,Smartwatch A,24999,15,4.1,5234,6,24
+Reliance Digital,PRD0043,Laptops,Business Laptop C,69999,0,3.4,9763,3,18
+Reliance Digital,PRD0044,Wearables,Sport Watch D,4999,0,4.6,5631,8,6
+Vijay Sales,PRD0045,Laptops,Gaming Laptop D,119999,0,3.7,1764,3,24
+Amazon,PRD0046,Audio,Bluetooth Speaker C,7999,15,4.4,965,6,6
+Vijay Sales,PRD0047,Laptops,Gaming Laptop D,119999,12,3.9,4375,9,24
+Vijay Sales,PRD0048,Smartphones,Flagship Phone C,79999,0,3.2,10997,7,6
+Croma,PRD0049,Wearables,Sport Watch D,9999,12,4.4,8288,4,18
+Vijay Sales,PRD0050,Smartphones,Phone Pro D,29999,25,4.4,10887,6,24
+Amazon,PRD0051,Wearables,Fitness Watch B,9999,5,3.5,4507,9,12
+Amazon,PRD0052,Wearables,Sport Watch D,4999,20,4.2,8860,3,18
+Flipkart,PRD0053,Smartphones,Premium Phone A,29999,8,3.7,11768,9,24
+Amazon,PRD0054,Audio,Wireless Earbuds A,7999,15,4.6,3049,2,24
+Reliance Digital,PRD0055,Wearables,Premium Watch C,24999,20,4.0,1549,6,18
+Vijay Sales,PRD0056,Audio,Wireless Earbuds A,7999,20,4.5,8122,6,12
+Flipkart,PRD0057,Laptops,Gaming Laptop D,54999,12,3.5,5284,8,18
+Reliance Digital,PRD0058,Audio,ANC Headphones B,19999,10,4.4,1502,3,12
+Amazon,PRD0059,Smartphones,Flagship Phone C,59999,15,3.3,6908,5,18
+Reliance Digital,PRD0060,Wearables,Sport Watch D,9999,0,3.8,1446,9,6
+Croma,PRD0061,Smartphones,Flagship Phone C,44999,20,4.0,6746,4,24
+Flipkart,PRD0062,Smartphones,Phone Pro D,59999,10,4.6,1399,9,6
+Vijay Sales,PRD0063,Laptops,Gaming Laptop D,89999,20,4.8,11416,9,12
+Reliance Digital,PRD0064,Smartphones,Premium Phone B,59999,12,4.5,10877,3,6
+Flipkart,PRD0065,Wearables,Premium Watch C,4999,20,4.1,4324,7,12
+Amazon,PRD0066,Laptops,Gaming Laptop D,89999,15,4.6,11818,5,12
+Flipkart,PRD0067,Audio,Premium Earbuds D,7999,10,4.4,3743,4,12
+Flipkart,PRD0068,Smartphones,Flagship Phone C,79999,8,3.6,5378,6,18
+Amazon,PRD0069,Laptops,Ultrabook A,119999,12,3.3,9924,6,24
+Croma,PRD0070,Wearables,Fitness Watch B,24999,20,3.7,11741,1,24
+Flipkart,PRD0071,Laptops,Business Laptop C,54999,5,3.9,1676,5,18
+Flipkart,PRD0072,Smartphones,Premium Phone B,79999,0,3.2,5349,9,18
+Croma,PRD0073,Laptops,Gaming Laptop D,69999,15,3.9,2264,7,6
+Vijay Sales,PRD0074,Audio,Bluetooth Speaker C,12999,15,3.3,3112,8,18
+Flipkart,PRD0075,Wearables,Fitness Watch B,9999,5,3.8,9593,2,12
+Flipkart,PRD0076,Wearables,Smartwatch A,4999,10,4.3,3928,1,12
+Amazon,PRD0077,Wearables,Sport Watch D,24999,12,4.6,9973,6,12
+Reliance Digital,PRD0078,Smartphones,Premium Phone A,44999,12,3.3,10100,9,12
+Vijay Sales,PRD0079,Wearables,Sport Watch D,24999,25,4.7,1063,2,6
+Reliance Digital,PRD0080,Smartphones,Flagship Phone C,44999,0,4.7,5040,5,12
+Vijay Sales,PRD0081,Laptops,Business Laptop C,89999,15,4.2,739,6,24
+Croma,PRD0082,Laptops,Business Laptop C,54999,12,3.7,8658,7,18
+Croma,PRD0083,Laptops,Business Laptop C,69999,20,4.2,9070,3,12
+Flipkart,PRD0084,Smartphones,Premium Phone B,44999,25,3.6,9683,1,12
+Croma,PRD0085,Smartphones,Premium Phone B,44999,5,3.3,10076,9,24
+Vijay Sales,PRD0086,Audio,ANC Headphones B,12999,5,4.2,7526,2,18
+Amazon,PRD0087,Smartphones,Premium Phone B,44999,5,4.7,1968,1,18
+Vijay Sales,PRD0088,Audio,Wireless Earbuds A,12999,10,3.4,6142,9,6
+Reliance Digital,PRD0089,Audio,Premium Earbuds D,12999,20,3.8,10412,2,18
+Reliance Digital,PRD0090,Laptops,Creator Laptop B,69999,20,4.7,4386,5,24
+Reliance Digital,PRD0091,Laptops,Gaming Laptop D,89999,0,3.9,1665,2,18
+Flipkart,PRD0092,Audio,ANC Headphones B,3999,20,4.6,7993,4,12
+Flipkart,PRD0093,Laptops,Business Laptop C,54999,8,4.7,9901,4,12
+Vijay Sales,PRD0094,Audio,Bluetooth Speaker C,19999,10,4.4,6516,2,18
+Vijay Sales,PRD0095,Laptops,Creator Laptop B,119999,25,4.2,649,7,6
+Croma,PRD0096,Laptops,Creator Laptop B,119999,15,3.4,11122,7,12
+Amazon,PRD0097,Audio,Bluetooth Speaker C,19999,20,3.2,3973,5,6
+Amazon,PRD0098,Audio,Premium Earbuds D,3999,25,4.7,9551,3,12
+Flipkart,PRD0099,Laptops,Gaming Laptop D,69999,0,4.1,698,1,6
+Reliance Digital,PRD0100,Audio,ANC Headphones B,3999,10,4.0,804,5,6
